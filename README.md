@@ -18,7 +18,8 @@ Data splitting (sklearn.model_selection)
 NumPy: For numerical computations and array manipulation.
 Matplotlib: For data visualization and plotting.
 IPython/Jupyter Notebook: (Implied by the %matplotlib inline and In [..]: notation) For interactive coding and execution.
-Installation:
+
+#Installation:
 
 Python:
 
@@ -79,7 +80,7 @@ Increase the dataset size or use data augmentation techniques.
 Fine-tune the hyperparameters further for better performance.
 Implement real-time face recognition using a webcam.
 
-OutPut-
+#OutPut-
 
 ![image](https://github.com/user-attachments/assets/503c52e7-e4b4-4eb3-8042-fcd8faf5e2a0)
 
